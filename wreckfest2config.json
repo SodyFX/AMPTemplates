@@ -1,1 +1,16 @@
-[]
+[  
+    {
+        "DisplayName": "Game Port",
+        "Category": "Wreckfest2:stadia_controller",
+        "Subcategory": "Server:dns:1",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "$GamePort",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "Hidden": true,
+        "ParamFieldName": "game_port",
+        "IncludeInCommandLine": false,
+        "EnumValues": {}
+    },
+]
