@@ -23,7 +23,7 @@
         "InputType": "text",
         "ParamFieldName": "CustomArgs",
         "DefaultValue": "",
-        "Placeholder": "--server --save-dir=.\/data",
+        "Placeholder": "--server --save-dir=.\data",
         "EnumValues": {}
     },
 ]
