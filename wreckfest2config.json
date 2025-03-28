@@ -13,17 +13,4 @@
         "IncludeInCommandLine": false,
         "EnumValues": {}
     },
-    {
-        "DisplayName": "Custom Command Line Arguments",
-        "Category": "Wreckfest2:stadia_controller",
-        "Subcategory": "Server:dns:1",
-        "Description": "Sets custom command line arguments. Don't use arguments already in AMP's settings!",
-        "Keywords": "custom,command,line,arguments",
-        "FieldName": "CustomArgs",
-        "InputType": "text",
-        "ParamFieldName": "CustomArgs",
-        "DefaultValue": "",
-        "Placeholder": "--server --save-dir=.\data",
-        "EnumValues": {}
-    },
 ]
