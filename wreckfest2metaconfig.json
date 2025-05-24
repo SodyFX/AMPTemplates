@@ -1,0 +1,12 @@
+[
+    {
+        "ConfigFile": "serverdata/server_config.scnf",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "serverdata/server_privilege.sprv",
+        "ConfigType": "",
+        "AutoMap": false
+    }
+]
